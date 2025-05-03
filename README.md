@@ -1,5 +1,7 @@
 <h1 align="center">👋 Hi, I'm Said Elabidy</h1>
-<h3 align="center">💻 Full Stack .NET Developer </h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=04D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+.NET+Developer;Passionate+Learner" alt="Typing SVG" />
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/said-elabidy-87b539288/">
@@ -62,7 +64,6 @@
 ### 💻 Desktop App
 - [💊 Pharmacy Management System](https://github.com/Said-Elabidy/Pharmacy-Management-System-WF) — Windows Forms + SQL Server  
 
----
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=30:7812f8,100:00D8FF&height=80&section=footer" width="100%" />
 </p>
