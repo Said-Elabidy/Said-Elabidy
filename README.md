@@ -1,4 +1,8 @@
-<h1 align="center">👋 Hi, I'm Said Elabidy</h1>
+<p align="center">
+  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
+</p>
+<h1 align="center"><b>Hi, I'm Said Elabidy </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=04D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+.NET+Developer;Passionate+Learner" alt="Typing SVG" />
 
@@ -17,8 +21,7 @@
 
 ---
 
-## 🚀 About Me
-
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 - 🔭 Currently working on **Restaurant API's** 
 - 🌱 Learning **Advanced .NET** and **Angular**
 - 💬 Ask me about: `ASP.NET Core`, `Entity Framework`, `SQL`, `Angular`
@@ -29,11 +32,14 @@
 ## 🛠️ Tech Stack
 
 ### 🔹 Backend
+
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![LINQ](https://img.shields.io/badge/LINQ-00599C?style=for-the-badge&logo=.net&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+
 
 ### 🔹 Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
