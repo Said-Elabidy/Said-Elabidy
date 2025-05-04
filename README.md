@@ -22,7 +22,8 @@
 ---
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-- 🔭 Currently working on **Restaurant API's** 
+- 🔭 Currently Developing **Restaurant APIs** as a project
+
 - 🌱 Learning **Advanced .NET** and **Angular**
 - 💬 Ask me about: `ASP.NET Core`, `Entity Framework`, `SQL`, `Angular`
 - 📫 Reach me: **saidelabidy131@gmail.com**
