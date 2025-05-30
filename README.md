@@ -14,7 +14,7 @@
   <a href="mailto:saidelabidy131@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1RPt35pvlyPIwtYgQuE187ofn8cRTOX_E/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/17Mv7y8G6q0tl_XCIrZxGon1AEDBAsSxB/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </p>
